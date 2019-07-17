@@ -9,7 +9,7 @@ describe '#meal_choice' do
     expect(meal_choice("broccoli", "macaroni", "tofu")).to eq("A plate of tofu with broccoli and macaroni.")
   end
 
-  it 'should puts "What a nutritious meal!" and your order to the console' do
+  it 'should puts "Whjat a nutritious meal!" and your order to the console' do
     expect($stdout).to receive(:puts).with("What a nutritious meal!")
     expect($stdout).to receive(:puts).with("A plate of meat with broccoli and macaroni.")
     meal_choice("broccoli", "macaroni")
