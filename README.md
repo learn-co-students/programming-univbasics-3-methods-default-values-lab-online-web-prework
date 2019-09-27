@@ -1,4 +1,4 @@
-# Meal Choice Lab
+_implicit_# Meal Choice Lab
 
 ## Learning Goals
 
