@@ -1,4 +1,4 @@
-require 'spec_helper'
+ require 'spec_helper'
 
 describe '#meal_choice' do
   it 'should default to meat for the protein' do
