@@ -1,4 +1,4 @@
-require 'spec_helper'
+ require 'spec_helper'
 
 describe '#meal_choice' do
   it 'should puts "What a nutritious meal!" and your order to the console' do
